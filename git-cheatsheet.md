@@ -190,10 +190,16 @@ I get 10 times more traffic from [Google][] than from
 
 ## Emphasis
 
+### Italic
 *single asterisks*
 
 _single underscores_
 
+un*frigging*believable
+
+### Bold
 **double asterisks**
 
 __double underscores__
+
+un**frigging**believable
