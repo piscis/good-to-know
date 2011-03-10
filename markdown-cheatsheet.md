@@ -167,7 +167,12 @@ HTML Encoding example
 
 ## Images
 
+### Direct linking
 ![alt text](https://github.com/images/modules/header/logov3-hover.png "Title")
+
+### Linking by reference
+![alt text][id]
+[id]: https://github.com/images/modules/header/logov3-hover.png "Title"
 
 ## Links
 
