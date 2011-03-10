@@ -81,5 +81,6 @@ GIT Cheat sheet
 
 ***
 
+
 ## Links
-* [](http://git.or.cz/course/svn.html "") - svn2git converter guide
+* [http://git.or.cz/course/svn.html2](http://git.or.cz/course/svn.html "http://git.or.cz/course/svn.html 3") - svn2git converter guide  
