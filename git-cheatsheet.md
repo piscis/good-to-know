@@ -131,4 +131,12 @@ Lists
 ##### False Positive example
 1986. This is a list.
 
-1986\. That' not a list.
+1986\. That's not a list.
+
+
+### Code Blocks
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
