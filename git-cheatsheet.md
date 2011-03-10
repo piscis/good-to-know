@@ -1,5 +1,8 @@
-Git cheatsheet
-==============
+Github markdown Cheatsheet
+==========================
+
+Tables
+------
 
  Left align | Right align | Center align 
 :-----------|------------:|:------------:
@@ -10,16 +13,13 @@ Git cheatsheet
  left       |       right |    center    
  aligned    |     aligned |   aligned   
 
+Code-Blocks
+------------
 
- GIT        | SVN         | Description 
-:-----------|------------:|:------------:
- This       |        This |     This     
- column     |      column |    column    
- will       |        will |     will     
- be         |          be |      be      
- left       |       right |    center    
- aligned    |     aligned |   aligned
+### Codeblock - one line 
+´alert('hello world')´
 
+### Codeblock - multiple lines 
 
     var rpc = new easyXDM.Rpc({
         remote: "http://path.to/provider/" // the path to the provider
@@ -39,3 +39,8 @@ Git cheatsheet
             }
         }
     });
+
+
+Lists
+------
+
