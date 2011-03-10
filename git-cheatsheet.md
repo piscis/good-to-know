@@ -56,27 +56,6 @@ alert('hello world')
     });
 
 
-Lists
------
-
-### Unordered Lists
-* Listpoint 1
-* Listpoint 2
-* Listpoint 3
-
-- Listpoint 1
-- Listpoint 2
-- Listpoint 3
-
-+ Listpoint 1
-+ Listpoint 2
-+ Listpoint 3
-
-### Ordered Lists
-1. Listpoint 1
-1. Listpoint 2
-1. Listpoint 3
-
 Blockquotes
 -----------
 
@@ -99,8 +78,6 @@ Blockquotes
 
 ### Containing blockquotes
 
-
-
 > ## This is a header.
 > 
 > 1.   This is the first list item.
@@ -109,3 +86,40 @@ Blockquotes
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+
+
+Lists
+-----
+
+### Unordered Lists
+* Listpoint 1
+- Listpoint 2
++ Listpoint 3
+
+
+### Ordered Lists
+1. Listpoint 1
+1. Listpoint 2
+1. Listpoint 3
+
+
+### List Examples
+
+#### Intended list
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+    Suspendisse id sem consectetuer libero luctus adipiscing.
+
+#### Paragraph list
+*   Bird
+
+*   Magic
+
+#### Blockquote list
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
+
