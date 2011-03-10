@@ -1,6 +1,15 @@
 Github markdown Cheatsheet
 ==========================
 
+Headlines
+---------
+
+# This is an H1
+
+## This is an H2
+
+###### This is an H6
+
 Tables
 ------
 
@@ -46,8 +55,10 @@ alert('hello world')
 Lists
 ------
 
-
+### Unsorted Lists
 * Listpoint 1
 * Listpoint 2
 * Listpoint 3
+
+### 
 
