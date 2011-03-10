@@ -59,13 +59,21 @@ alert('hello world')
 Lists
 ------
 
-### Unsorted Lists
+### Unordered Lists
 * Listpoint 1
 * Listpoint 2
 * Listpoint 3
 
-### Ordered Lists
 - Listpoint 1
 - Listpoint 2
 - Listpoint 3
+
++ Listpoint 1
++ Listpoint 2
++ Listpoint 3
+
+### Ordered Lists
+1. Listpoint 1
+1. Listpoint 2
+1. Listpoint 3
 
