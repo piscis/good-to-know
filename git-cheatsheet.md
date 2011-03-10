@@ -4,60 +4,60 @@ GIT Cheat sheet
 ## Some useful git commands
 
 ### Checkout out a repository from remote source
-> git clone *url*
+> git clone *url*  
 
 ### Get Updates from repository server and merge them in local checkout
-> git pull
+> git pull  
 
 ### Initialize a repository
-> git init 
-> git add . 
-> git commit 
+> git init  
+> git add .  
+> git commit  
 
 ### Get a status of changed files/folders
-> git status 
+> git status  
 
 ### Applying a patch
-> git apply 
+> git apply  
 
 
 ### To restore a file from the last revision
-> git checkout *path* 
+> git checkout *path*  
 
 ### Adding / Updating / Deleting / Moving -
-> git add *file* 
-> git rm *file* 
-> git mv *file* 
+> git add *file*  
+> git rm *file*  
+> git mv *file*  
 
 ### Committing changes to repository
-> git commit -a -m "Commit Msg"
+> git commit -a -m "Commit Msg"  
 
 ### Look for changes in the repository
-> git log 
-> git blame file 
+> git log  
+> git blame file  
 	
 ### See contents of a file, listing of directory or commit
-> git show rev:path/to/file 
-> git show rev:path/to/directory 
-> git show rev 
+> git show rev:path/to/file  
+> git show rev:path/to/directory  
+> git show rev  
 
 
 ## Tagging and branching
 
 ### Create a tag
-> git tag -a name 
+> git tag -a name  
 	
 ### List a tag + list tag msg
-> git tag -l 
-> git show tag 
+> git tag -l  
+> git show tag  
 	
 ### Create and use a branch
-> git branch *branch* 
-> git checkout *branch* 
+> git branch *branch*  
+> git checkout *branch*  
 
 ### Get a list of branchnames
-> git branch 
+> git branch  
 
 ### Move tree to a older revision
-> git checkout *rev* 
-> git checkout *prevbranch* 
+> git checkout *rev*  
+> git checkout *prevbranch*  
