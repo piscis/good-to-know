@@ -1,7 +1,13 @@
 GIT Cheat sheet
 ===============
 
-## Some useful git commands
+## Useful setup commands
+> git config --global user.name "Your Name Comes Here"  
+> git config --global user.email you@yourdomain.example.com 
+
+***
+
+## Basic Git commands
 
 ### Checkout out a repository from remote source
 > git clone *url*  
@@ -19,7 +25,6 @@ GIT Cheat sheet
 
 ### Applying a patch
 > git apply  
-
 
 ### To restore a file from the last revision
 > git checkout *path*  
@@ -41,6 +46,7 @@ GIT Cheat sheet
 > git show rev:path/to/directory  
 > git show rev  
 
+***
 
 ## Tagging and branching
 
@@ -61,3 +67,20 @@ GIT Cheat sheet
 ### Move tree to a older revision
 > git checkout *rev*  
 > git checkout *prevbranch*  
+
+***
+
+## Git + Remote commands
+
+### Switching to a remote branch
+> git checkout --track -b branch origin/branch  
+
+### Show the remote repositories
+> git remote show  
+> git remote show *origin*  
+
+***
+
+## Links
+
+(http://git.or.cz/course/svn.html "svn2git converter guide")
