@@ -123,3 +123,12 @@ Lists
     > This is a blockquote
     > inside a list item.
 
+##### Codeblock list
+*   A list item with a code block:
+
+        <code goes here>
+
+##### False Positive example
+1986. This is a list.
+
+1986\. That' not a list.
