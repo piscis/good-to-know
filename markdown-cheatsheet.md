@@ -1,5 +1,6 @@
-Github markdown Cheatsheet
+Github MarkDown cheatsheet
 ==========================
+
 
 Headlines
 ---------
