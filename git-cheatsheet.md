@@ -22,9 +22,7 @@ Git cheatsheet
 
 
 
-~~~
-
+`
 blank line before
 blank line after
-
-~~~
+`
