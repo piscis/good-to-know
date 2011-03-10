@@ -165,6 +165,10 @@ HTML Encoding example
 ---------------------------------------
 
 
+## Images
+
+![alt text](http://github.com/images/modules/header/logov3-hover.png "Title")
+
 ## Links
 
 ### standard links
