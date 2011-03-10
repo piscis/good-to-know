@@ -42,3 +42,23 @@ GIT Cheat sheet
     git show rev
 
 
+## Tagging and branching
+
+### Create a tag
+	git tag -a name
+	
+### List a tag + list tag msg
+	git tag -l
+	git show tag
+	
+### Create and use a branch
+	git branch *branch*
+	git checkout *branch*
+
+### Get a list of branchnames
+    git branch
+
+### Move tree to a older revision
+    git checkout *rev*
+    git checkout *prevbranch*
+
