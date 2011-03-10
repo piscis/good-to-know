@@ -140,3 +140,9 @@ Here is an example of AppleScript:
     tell application "Foo"
         beep
     end tell
+
+HTML Encoding example
+
+	<div class="footer">
+		&copy; 2004 Foo Corporation
+	</div>
