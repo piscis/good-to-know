@@ -134,7 +134,9 @@ Lists
 1986\. That's not a list.
 
 
-### Code Blocks
+Code Blocks
+-----------
+
 Here is an example of AppleScript:
 
     tell application "Foo"
@@ -146,3 +148,52 @@ HTML Encoding example
 	<div class="footer">
 		&copy; 2004 Foo Corporation
 	</div>
+
+
+## Horizontal rules
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+
+## Links
+
+### standard links
+
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
+
+### Links by reference 
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
+
+### Links by implicit linking
+I get 10 times more traffic from [Google][] than from
+[Yahoo][] or [MSN][].
+
+  [google]: http://google.com/        "Google"
+  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+  [msn]:    http://search.msn.com/    "MSN Search"
+
+
+## Emphasis
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
