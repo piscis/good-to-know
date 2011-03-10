@@ -60,6 +60,5 @@ GIT Cheat sheet
 
 ### Move tree to a older revision
 > git checkout *rev*    
-
 > git checkout *prevbranch*  
 
