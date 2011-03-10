@@ -30,9 +30,11 @@ Code-Blocks
 ------------
 
 ### Codeblock - one line 
-´
-alert('hello world')
-´
+
+Use the `printf()` function.
+
+A backtick-delimited string in a code span: `` `foo` ``
+
 
 ### Codeblock - multiple lines 
 
