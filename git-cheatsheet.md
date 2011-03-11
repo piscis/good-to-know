@@ -83,4 +83,5 @@ GIT Cheat sheet
 
 
 ## Links
+* [http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge](http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge) - answer to svn status -u update problem   
 * [http://git.or.cz/course/svn.html](http://git.or.cz/course/svn.html) - svn2git converter guide  
