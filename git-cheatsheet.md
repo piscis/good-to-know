@@ -1,6 +1,14 @@
 GIT Cheat sheet
 ===============
 
+## Links
+* [stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge](http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge) - answer to svn status -u update problem   
+* [git.or.cz/course/svn.html](http://git.or.cz/course/svn.html) - svn2git converter guide  
+* [gitready.com](http://gitready.com) - A good beginners guide
+* [learn.github.com](http://learn.github.com) - Good quick reference
+
+***
+
 ## Useful setup commands
 > git config --global user.name "Your Name Comes Here"  
 > git config --global user.email you@yourdomain.example.com 
@@ -80,8 +88,3 @@ GIT Cheat sheet
 > git remote show *origin*  
 
 ***
-
-
-## Links
-* [http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge](http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge) - answer to svn status -u update problem   
-* [http://git.or.cz/course/svn.html](http://git.or.cz/course/svn.html) - svn2git converter guide  
