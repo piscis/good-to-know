@@ -3,5 +3,5 @@
 A cheetsheet overview of my personal stuff and things I should remember.
 
 ### Cheatsheets
-* [Markdown](cheatsheet-markdown.md)
-* [GIT](cheatsheet-git.md)
+* [Markdown](/piscis/good-to-know/cheatsheet-markdown.md)
+* [GIT](/piscis/good-to-know/cheatsheet-git.md)
