@@ -1,6 +1,6 @@
 # MAC Os X shortcuts 
 
-***[Good to Know-Overview](/piscis/good-to-know)***
+***["Good to Know" overview](/piscis/good-to-know)***
 
 This shortcuts apply for the ***german*** keyboard.
 

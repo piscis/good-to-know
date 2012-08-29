@@ -1,7 +1,7 @@
 GIT Cheat sheet
 ===============
 
-***[Good to Know-Overview](/piscis/good-to-know)***
+***["Good to Know" overview](/piscis/good-to-know)***
 
 ## Links
 * [stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge](http://stackoverflow.com/questions/3419658/understanding-git-fetch-then-merge) - answer to svn status -u update problem   

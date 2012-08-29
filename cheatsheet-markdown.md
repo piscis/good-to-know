@@ -1,7 +1,7 @@
 Github MarkDown cheatsheet
 ==========================
 
-***[Good to Know-Overview](/piscis/good-to-know)***
+***["Good to Know" overview](/piscis/good-to-know)***
 
 Headlines
 ---------
