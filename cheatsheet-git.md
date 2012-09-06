@@ -64,9 +64,16 @@ GIT Cheat sheet
 > git tag -a name  
 	
 ### List a tag + list tag msg
-> git tag -l  
+> git tag -l
+> git tag --list
 > git show tag  
-	
+
+### Delete a Tag
+> git tag -d "123"
+
+#### Delete a Tag remote origin
+> git push origin :refs/tags/123
+
 ### Create and use a branch
 > git branch *branch*  
 > git checkout *branch*  
