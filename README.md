@@ -1,5 +1,7 @@
 # Good to Know
 
+:+1:
+
 A cheetsheet overview of my personal stuff and things I should remember.
 
 ### Cheatsheets:
