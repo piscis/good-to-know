@@ -1,6 +1,6 @@
 # Good to Know
 
-:+1: :+1\:
+:+1: : +1 :
 
 :bowtie:
 
