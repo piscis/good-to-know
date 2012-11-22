@@ -1,9 +1,5 @@
 # Good to Know
 
-:+1: : +1 :
-
-:bowtie:
-
 A cheetsheet overview of my personal stuff and things I should remember.
 
 ### Cheatsheets:
