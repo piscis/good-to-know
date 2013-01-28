@@ -109,7 +109,7 @@ Lists
 
 ### List Examples
 
-#### Intended list
+#### Indented list
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
     Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
     viverra nec, fringilla in, laoreet vitae, risus.
